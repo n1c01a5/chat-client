@@ -57,7 +57,7 @@ const Chat = () => {
                   {
                     clients.length !== 0 && clients.map(client => (
                       <option key={client.ID} value={client.ID}>
-                        {client.customPseudo ? client.customPseudo : client.pseudo}
+                        {client.pseudo}
                       </option>
                     ))
                   }
