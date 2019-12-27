@@ -10,4 +10,4 @@ Then run this command:
 yarn start
 ```
 
-You can create multiple browser widows to test the chat.
+You can create multiple browser windows to test the chat.
