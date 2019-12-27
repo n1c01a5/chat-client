@@ -70,7 +70,6 @@ const Chat = () => {
           </div>
         </div>
       </div>
-      {console.log(process.env)}
     </div>
   )
 }
