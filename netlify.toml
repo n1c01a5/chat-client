@@ -1,0 +1,6 @@
+[build.environment]
+  YARN_FLAGS='--pure-lockfile'
+  REACT_APP_SERVER='https://chat-rfgbrzbcqs.now.sh'
+
+[context.production.environment]
+  REACT_APP_SERVER='https://chat-rfgbrzbcqs.now.sh'
